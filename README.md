@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 At the Fred Hutch Cancer center, I am working on computational methods for genomic data analysis in the context of cancer development
+- 🔭 I am currently working on computational methods for genomic data analysis in the context of cancer development
 - 💬 Ask me about cancer genomics, spatial transcriptomics, and evolutionary biology
 - 📫 How to reach me: dgroso@fredhutch.org
 - 😄 Pronouns: he/him
