@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I am currently working on computational methods for genomic data analysis in the context of cancer development
-- 💬 Ask me about cancer genomics, spatial transcriptomics, and evolutionary biology
+- 💬 Ask me about cancer genomics, neuro-genetics, and evolutionary biology
 - 📫 How to reach me: dgroso@fredhutch.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a musician, home cook, and aspiring physician-scientist!
